@@ -1,0 +1,9 @@
+﻿cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  InitShader.cpp
+  example1.cpp
+E:\Devcpp\cuac++\GLSLExperiment\example1.cpp(125,80): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+E:\Devcpp\cuac++\GLSLExperiment\example1.cpp(130,90): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+E:\Devcpp\cuac++\GLSLExperiment\example1.cpp(186,12): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+  Generating Code...
+example1.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  GLSLExperiment.vcxproj -> E:\Devcpp\cuac++\Debug\GLSLExperiment.exe
